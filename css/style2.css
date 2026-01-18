@@ -1,0 +1,47 @@
+.stroke
+    {
+    color: rgb(255, 255, 255);
+     text-shadow:
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000;                                
+                    
+}            
+        
+/*.card .icon {
+    font-size: 3rem;
+    color:rgb(47, 175, 255);
+            }
+        
+.card-text {
+    color: gray;
+            }
+        
+.card:hover {
+    background-color: rgb(47, 175, 255);
+    color: #fff;
+            }
+        
+.card {
+          
+        transition: all 0.5s;
+     }
+        
+.card:hover .icon,
+.card:hover .card-text {
+        color: #fff;
+    }*/
+.navtex{
+        color:rgb(0, 0, 0);
+        text-decoration: none;
+        transition: all 0.2s;
+                      
+                      
+    }
+.navtex:hover{
+                 
+        color: rgb(47, 175, 255);
+            }
+                      
+.footer__link{text-decoration: none;}
